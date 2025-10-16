@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Caraval",
+        "author": "Stephanie Garber",
+        "completed": true,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "title": "Assistant To The Villain",
+        "author": "Hannah Nicole",
+        "completed": true,
+        "rating": 5
+    }
+]
