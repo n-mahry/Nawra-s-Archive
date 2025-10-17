@@ -12,5 +12,19 @@
         "author": "Hannah Nicole",
         "completed": true,
         "rating": 5
+    },
+    {
+        "id": 3,
+        "title": "Shatter Me",
+        "author": "Tahereh Mafi",
+        "completed": false,
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "title": "Powerless",
+        "author": "Lauren Roberts",
+        "completed": true,
+        "rating": 2
     }
 ]
